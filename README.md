@@ -1,15 +1,40 @@
 <div align="center">
 
-```
- ██████╗ ██████╗  ██████╗ ██████╗ ██╗     ███████╗███╗   ███╗      ███████╗ ██████╗ ██╗     ██╗██╗   ██╗███████╗██████╗ 
-██╔═══██╗██╔══██╗██╔═══██╗██╔══██╗██║     ██╔════╝████╗ ████║      ██╔════╝██╔═══██╗██║     ██║██║   ██║██╔════╝██╔══██╗
-██║   ██║██████╔╝██║   ██║██████╔╝██║     █████╗  ██╔████╔██║█████╗█████╗  ██║   ██║██║     ██║██║   ██║█████╗  ██████╔╝
-██║   ██║██╔══██╗██║   ██║██╔══██╗██║     ██╔══╝  ██║╚██╔╝██║╚════╝██╔══╝  ██║   ██║██║     ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗
-╚██████╔╝██║  ██║╚██████╔╝██████╔╝███████╗███████╗██║ ╚═╝ ██║      ██║     ╚██████╔╝███████╗██║ ╚████╔╝ ███████╗██║  ██║
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝      ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
-```
+<!-- Animated Terminal SVG -->
+<svg width="600" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="180" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="20" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="16" r="6" fill="#27c93f"/>
+  <text x="250" y="20" fill="#8b949e" font-family="monospace" font-size="12">terminal</text>
+  <text x="20" y="50" fill="#58a6ff" font-family="monospace" font-size="14">
+    <tspan x="20">$ </tspan><tspan fill="#e6edf3">./init</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="20" y="75" fill="#e6edf3" font-family="monospace" font-size="13">
+    <tspan x="20">  Varannai Bence</tspan>
+    <animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.1s" fill="freeze"/>
+  </text>
+  <text x="20" y="95" fill="#8b949e" font-family="monospace" font-size="12">
+    <tspan x="20">  Forward Deployed Engineer</tspan>
+    <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.1s" fill="freeze"/>
+  </text>
+  <text x="20" y="115" fill="#8b949e" font-family="monospace" font-size="12">
+    <tspan x="20">  Problem Solver</tspan>
+    <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.1s" fill="freeze"/>
+  </text>
+  <text x="20" y="140" fill="#238636" font-family="monospace" font-size="12">
+    <tspan x="20">  [ACTIVE] BMW Group · Debrecen</tspan>
+    <animate attributeName="opacity" values="0;1" begin="2.0s" dur="0.1s" fill="freeze"/>
+  </text>
+  <text x="20" y="160" fill="#58a6ff" font-family="monospace" font-size="14">
+    <tspan x="20">$ </tspan><tspan fill="#e6edf3" font-weight="bold">_</tspan>
+    <animate attributeName="opacity" values="0;1" begin="2.4s" dur="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.7s"/>
+  </text>
+</svg>
 
-**Problem Solver** · Forward Deployed Engineer · CS Student
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://varannaibence.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bence-varannai)
@@ -38,7 +63,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=varannaibence&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varannaibence&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varannaibence&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=varannaibence&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 ---
@@ -122,7 +147,7 @@ NVIDIA Deep Learning Institute
 ```
 [✓] Land internship at BMW Group
 [✓] Start B.Sc. Computer Science
-[ ] Reach conversational Japanese (N4 → N3)
+[ ] Reach conversational Japanese (N5 → N4)
 [ ] Contribute to open-source projects
 [ ] Ship a side project to production
 ```
