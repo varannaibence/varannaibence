@@ -36,14 +36,34 @@
 
 <br/>
 
-<!-- Readable ASCII Name -->
-
-```
-__   __                            _   ___
-\ \ / /_ _ _ _ __ _ _ _  _ _  __ _(_) | _ ) ___ _ _  __ ___
- \ V / _` | '_/ _` | ' \| ' \/ _` | | | _ \/ -_) ' \/ _/ -_)
-  \_/\__,_|_| \__,_|_||_|_||_\__,_|_| |___/\___|_||_\__\___|
-```
+<!-- SVG Name Header -->
+<svg viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#a371f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="120" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <g opacity="0.06" stroke="#58a6ff" stroke-width="0.5">
+    <line x1="0" y1="30" x2="600" y2="30"/>
+    <line x1="0" y1="60" x2="600" y2="60"/>
+    <line x1="0" y1="90" x2="600" y2="90"/>
+    <line x1="60" y1="0" x2="60" y2="120"/>
+    <line x1="180" y1="0" x2="180" y2="120"/>
+    <line x1="300" y1="0" x2="300" y2="120"/>
+    <line x1="420" y1="0" x2="420" y2="120"/>
+    <line x1="540" y1="0" x2="540" y2="120"/>
+  </g>
+  <text x="300" y="58" text-anchor="middle" fill="url(#glow)" font-family="monospace" font-size="32" font-weight="bold" letter-spacing="2">VARANNAI BENCE</text>
+  <line x1="150" y1="70" x2="450" y2="70" stroke="url(#glow)" stroke-width="1.5" opacity="0.6"/>
+  <text x="300" y="95" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14" letter-spacing="3">Forward Deployed Engineer · Problem Solver</text>
+  <rect x="20" y="20" width="8" height="8" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.5"/>
+  <rect x="572" y="20" width="8" height="8" fill="none" stroke="#a371f7" stroke-width="1" opacity="0.5"/>
+  <rect x="20" y="92" width="8" height="8" fill="none" stroke="#a371f7" stroke-width="1" opacity="0.5"/>
+  <rect x="572" y="92" width="8" height="8" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.5"/>
+</svg>
 
 <br/>
 
