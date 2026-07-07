@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Varannai%20Bence&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist&descSize=14&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Varannai%20Bence&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Problem%20Solver&descSize=14&descAlignY=55"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C%20World!%22);Building%20data%20systems%20%40%20BMW%20Group;CS%20Student%20%40%20Univ%20of%20Debrecen)](https://git.io/typing-svg)
@@ -24,7 +24,7 @@ $ neofetch
     ┌────────────────────────────────────────┐
     │  Varannai Bence                        │
     ├────────────────────────────────────────┤
-    │  Role    : SWE & Data Scientist        │
+    │  Role    : Forward Deployed Engineer   │
     │  Company : BMW Group, Debrecen         │
     │  Degree  : B.Sc. CS (2025–2028)        │
     │  Univ    : University of Debrecen      │
@@ -112,7 +112,7 @@ $ neofetch
 ### 💼 Experience
 
 ```
-BMW Group — Software Engineer & Data Scientist          2025 – Present
+BMW Group — Forward Deployed Engineer                   2025 – Present
 ├─ Own features end-to-end: scoping → production
 ├─ React/TypeScript frontends + Palantir Foundry pipelines
 └─ AI integration where it makes practical sense
